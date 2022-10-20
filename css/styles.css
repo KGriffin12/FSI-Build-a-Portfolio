@@ -1,5 +1,9 @@
 
-
+img{
+     height:300px;
+     length:300px;
+    
+}
 
 
 body {
@@ -9,13 +13,12 @@ h1 {
     background-color: rgb(83, 87, 87);
     border-radius: 25px;
 }
-<style>
-        #example1 {
-            border: 2px solid white;
-            border-radius: 25px;
-        }
+h1{text-align:center}
+
+
+
         body {
             background-color: lightsteelblue;
         }
-    </style>
+    
 
